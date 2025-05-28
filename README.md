@@ -53,7 +53,10 @@
 
 ## 🧠 Quote I Live By
 
-> “Data will talk to you if you’re willing to listen.” – Jim Bergeson
+*“Data will talk to you if you’re willing to listen.” – Jim Bergeson*
 
+---
+
+Thanks for visiting my profile — feel free to connect and collaborate!
 
 
