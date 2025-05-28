@@ -11,6 +11,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&multiline=true&width=700&lines=Crafting+intelligent,+data-driven+solutions;Analyzing+data+for+better+decisions;Building+dashboards+with+Power+BI;Solving+business+problems+with+SQL+and+Python)
 
+
+
 ---
 
 ## 🔬 What I Do
