@@ -9,9 +9,9 @@
 - ✅ Known for building reliable dashboards, interpreting business KPIs, and translating complex data into insights
 - 🌍 Based in Dublin · Open to remote & hybrid roles across analytics, BI, or reporting
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Analyzing+data+to+drive+decisions;Designing+dashboards+that+tell+stories;Solving+business+problems+with+SQL+%26+Python;Crafting+data-driven+solutions)
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Analyzing+data+to+drive+decisions;Designing+dashboards+that+tell+stories;Solving+real-world+problems+with+Python+%26+SQL;Turning+data+into+actionable+insights" alt="Typing SVG"/>
+</p>
 
 ---
 
